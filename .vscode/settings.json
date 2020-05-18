@@ -1,0 +1,8 @@
+{
+    "git.enableSmartCommit": true,
+    "git.fetchOnPull": true,
+    "git.enableCommitSigning": true,
+    "git.autofetch": true,
+    "git.allowForcePush": true,
+    "git.showPushSuccessNotification": true
+}

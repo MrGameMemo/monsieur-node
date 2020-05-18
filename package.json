@@ -1,0 +1,19 @@
+{
+  "name": "monsieur-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm i && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrGameMemo/monsieur-node.git"
+  },
+  "author": "Mr Game#9298",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrGameMemo/monsieur-node/issues"
+  },
+  "homepage": "https://github.com/MrGameMemo/monsieur-node#readme"
+}
