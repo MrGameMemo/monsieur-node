@@ -1,0 +1,1 @@
+console.log("Vous venez de lancer l'exercice : \"Couleurs\" !")
