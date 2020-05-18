@@ -12,7 +12,9 @@ for (let i=0; i<4; i++) {
     switch(couleurs[i]) {
         case "bleu":
             console.log("La couleur est : bleu");
+            break;
         default:
             console.log("Pas de couleur ;)");
+            break;
     }
 } 
