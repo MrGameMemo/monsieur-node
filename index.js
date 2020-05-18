@@ -3,4 +3,8 @@ let couleurs = function() {
     require("./couleurs");
 }
 
-args = process.stdin
+let entreeStandard = process.stdin;
+entreeStandard.setEncoding("utf-8");
+entreeStandard.on("data", function (data) {
+if (end){return}
+});
