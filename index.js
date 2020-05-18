@@ -6,5 +6,5 @@ let couleurs = function() {
 let entreeStandard = process.stdin;
 entreeStandard.setEncoding("utf-8");
 entreeStandard.on("data", function (data) {
-if (end){return}
+if (end){return;}
 });
