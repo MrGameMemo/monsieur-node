@@ -4,6 +4,7 @@ let exerciceALancer = process.stdin;
 exerciceALancer.setEncoding("utf-8");
 exerciceALancer.on("data", function (data) {
 if (data === "couleurs"){
-    require("./couleurs")
+    require("./couleurs");
+    return;
 }
 });
